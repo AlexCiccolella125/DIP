@@ -18,3 +18,4 @@ matplotlib
 opencv-python
 ipykernel
 scikit-learn
+scikit-image
